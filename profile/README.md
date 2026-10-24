@@ -14,4 +14,4 @@ Visita nuestra [página web](https://crysistudio.xyz/) para más información so
 
 ## 📌 Contacto
 
-Si tienes alguna propuesta y quieres colaborar con el estudio, no dudes en ponerte en contacto con nosotros a través del siguiente formulario en [crysistudio.xyz/contact](https://www.elysiscreative.com/contact). También puedes enviarnos un correo electrónico a crysiscontacto@gmail.com.
+Si tienes alguna propuesta y quieres colaborar con el estudio, no dudes en ponerte en contacto con nosotros a través del siguiente formulario en [elysiscreative.com/contact](https://www.elysiscreative.com/contact). También puedes enviarnos un correo electrónico a crysiscontacto@gmail.com.
