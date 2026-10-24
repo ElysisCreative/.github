@@ -8,9 +8,9 @@ Visita nuestra [página web](https://crysistudio.xyz/) para más información so
 
 ### ➡ Seguinos y se parte de la comunidad
 
-[![X/Twitter](https://img.shields.io/static/v1?message=X/Twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/crysisstudio)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](http://ds.crysistudio.xyz)
-[![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@CrysisStudio)
+[![X/Twitter](https://img.shields.io/static/v1?message=X/Twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/ElysisCreative)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://www.elysiscreative.com/)
+[![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@ElysisCreative)
 
 ## 📌 Contacto
 
